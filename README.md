@@ -1,3 +1,4 @@
+# Overview
 Building upon the success of our previous projects—where we analyzed bike rental data, forecasted demand using machine learning, and classified vehicles using CNNs—this next phase focuses on analyzing customer review data. The objective is to analyze customer reviews, extract insights, and understand sentiment to improve BikeEase’s services.
 
 BikeEase receives thousands of customer reviews and feedback across multiple platforms. However, manually analyzing this data is inefficient. The goal of this capstone is to develop an NLP-powered sentiment analysis system that automatically classifies reviews as positive, neutral, or negative. Additionally, we will perform topic modeling to uncover key themes in customer feedback.
